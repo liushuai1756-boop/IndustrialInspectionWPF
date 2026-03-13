@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\plcclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:plcclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\toastwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:toastwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\toastwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:toastwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\recheckwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:recheckwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\confighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:confighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\ringcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:ringcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\ringcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:ringcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\recheckwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:recheckwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\ejectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:ejectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\ejectwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:ejectwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\logwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:logwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|c:\\users\\93596\\source\\repos\\industrialinspectionwpf\\logwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D9FD412-30BD-1F4E-BF5A-9678C6519ABE}|IndustrialInspectionWPF.csproj|solutionrelative:logwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAgwMoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:10:27.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlcClient.cs",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\PlcClient.cs",
+              "RelativeDocumentMoniker": "PlcClient.cs",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\PlcClient.cs",
+              "RelativeToolTip": "PlcClient.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAAACgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:12:49.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\SettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SettingsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\SettingsWindow.xaml.cs",
+              "RelativeToolTip": "SettingsWindow.xaml.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAA4wJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T14:02:25.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "SettingsWindow.xaml",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\SettingsWindow.xaml",
+              "RelativeToolTip": "SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-26T14:01:52.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToastWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\ToastWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ToastWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\ToastWindow.xaml.cs",
+              "RelativeToolTip": "ToastWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T16:00:22.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToastWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\ToastWindow.xaml",
+              "RelativeDocumentMoniker": "ToastWindow.xaml",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\ToastWindow.xaml",
+              "RelativeToolTip": "ToastWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-10T15:59:57.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecheckWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\RecheckWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RecheckWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\RecheckWindow.xaml.cs",
+              "RelativeToolTip": "RecheckWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T14:50:35.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-26T13:10:28.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigHelper.cs",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\ConfigHelper.cs",
+              "RelativeDocumentMoniker": "ConfigHelper.cs",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\ConfigHelper.cs",
+              "RelativeToolTip": "ConfigHelper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:28:31.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-26T14:15:22.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-26T14:01:00.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RingControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\RingControl.xaml.cs",
+              "RelativeDocumentMoniker": "RingControl.xaml.cs",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\RingControl.xaml.cs",
+              "RelativeToolTip": "RingControl.xaml.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:12:03.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T14:13:15.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:31:44.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAPgUAAAAAAAAAAAYwAUVAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-27T03:30:43.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RingControl.xaml",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\RingControl.xaml",
+              "RelativeDocumentMoniker": "RingControl.xaml",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\RingControl.xaml",
+              "RelativeToolTip": "RingControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-26T13:11:13.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RecheckWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\RecheckWindow.xaml",
+              "RelativeDocumentMoniker": "RecheckWindow.xaml",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\RecheckWindow.xaml",
+              "RelativeToolTip": "RecheckWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-26T14:49:37.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EjectWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\EjectWindow.xaml",
+              "RelativeDocumentMoniker": "EjectWindow.xaml",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\EjectWindow.xaml",
+              "RelativeToolTip": "EjectWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-26T14:51:07.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EjectWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\EjectWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EjectWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\EjectWindow.xaml.cs",
+              "RelativeToolTip": "EjectWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T14:51:37.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LogWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\LogWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LogWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\LogWindow.xaml.cs",
+              "RelativeToolTip": "LogWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T14:03:41.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LogWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\LogWindow.xaml",
+              "RelativeDocumentMoniker": "LogWindow.xaml",
+              "ToolTip": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\LogWindow.xaml",
+              "RelativeToolTip": "LogWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-26T14:03:02.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

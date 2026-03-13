@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AZVlfdt/YO8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\93596\\source\\repos\\IndustrialInspectionWPF\\IndustrialInspectionWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\93596\\.nuget\\packages\\s7netplus\\0.20.0\\s7netplus.0.20.0.nupkg.sha512",
+    "C:\\Users\\93596\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\93596\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\93596\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\93596\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
